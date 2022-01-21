@@ -1,0 +1,137 @@
+body {
+	background-image: url(fnaf.world.png);
+	width: cover;
+	height: cover;
+	color: black;
+}
+body.js {
+	font-family: impact;
+}
+.block {
+	background-color: white;
+	width: 500px;
+	height: 200px;
+}
+.PBlock {
+	position: absolute;
+	margin: 10;
+	font-weight: bold;
+	font-family: impact;
+	color: red;
+}
+#One {
+	font-family: impact;
+	color: black;
+}
+#Two {
+	font-family: impact;
+	color: black;
+}
+#Two.PBlock {
+	margin: 0px 200px 0px 0.78%;
+	position: absolute;
+}
+.Copy {
+	border-left-color: lime;
+	border-top-color: aqua;
+	border-right-color: yellow;
+	border-bottom-color: aqua;
+	margin: 70px 100px 100px 0px;
+	width: 100px;
+	height: 30px;
+	border-radius: 30px;
+	border: color(blue);
+	background: linear-gradient(40deg, lime, aqua, yellow);
+}
+.Copy:hover {
+	 box-shadow:
+	0 0 2.5px rgba(255, 255, 255,.8),
+	0 0 5px rgba(255, 255, 255,.8),
+	0 0 7.5px rgba(255, 255, 255,.8),
+	0 0 10px rgba(75, 255, 0,0.84),
+	0 0 12.5px rgba(75, 255, 0,0.84),
+	0 0 15px rgba(75, 255, 0,0.84),
+	0 0 17.5px rgba(75, 255, 0,0.84),
+	0 0 20px rgba(75, 255, 0,0.84),
+	0 0 22.5px rgba(75, 255, 0,0.84);
+}
+#Three {
+	font-family: impact;
+	color: black;
+	margin: 150px 0px 150px 10px;
+}
+.more {
+	font-family: impact;
+	color: red;
+	margin: 100px 0px 0px 10px;
+}
+#click {
+	background: linear-gradient(40deg, blue, aqua, yellow);
+	border-radius: 30px;
+	border-left-color: blue;
+	border-right-color: yellow;
+	border-bottom-color: aqua;
+	border-top-color: aqua;
+}
+#click:hover {
+	 box-shadow:
+	0 0 2.5px rgba(255, 255, 255,.8),
+	0 0 5px rgba(255, 255, 255,.8),
+	0 0 7.5px rgba(255, 255, 255,.8),
+	0 0 10px rgba(75, 255, 0,0.84),
+	0 0 12.5px rgba(75, 255, 0,0.84),
+	0 0 15px rgba(75, 255, 0,0.84),
+	0 0 17.5px rgba(75, 255, 0,0.84),
+	0 0 20px rgba(75, 255, 0,0.84),
+	0 0 22.5px rgba(75, 255, 0,0.84);
+}
+.shg {
+	text-align: right;
+	border-left-color: lime;
+	border-right-color: purple;
+	border-bottom-color: aqua;
+	border-top-color: blue;
+	border-radius: 30px;
+	margin: 200px 0px 130px 1230px;
+	background: linear-gradient(30deg, green, lime, aqua, purple, blue);
+}
+.shg:hover {
+	 box-shadow:
+	0 0 2.5px rgba(255, 255, 255,.8),
+	0 0 5px rgba(255, 255, 255,.8),
+	0 0 7.5px rgba(255, 255, 255,.8),
+	0 0 10px rgba(75, 255, 0,0.84),
+	0 0 12.5px rgba(75, 255, 0,0.84),
+	0 0 15px rgba(75, 255, 0,0.84),
+	0 0 17.5px rgba(75, 255, 0,0.84),
+	0 0 20px rgba(75, 255, 0,0.84),
+	0 0 22.5px rgba(75, 255, 0,0.84);
+}
+.block2 {
+	background-color: black;
+	width: 1300px;
+	height: 80px
+}
+text#white {
+	color: white;
+}
+.backbutton {
+	border-radius: 30px;
+	border-left-color: green;
+	border-right-color: aqua;
+	border-bottom-color: lime;
+	border-top-color: blue;
+    background: linear-gradient(20deg, lime, green, blue, aqua)
+}
+.backbutton:hover {
+	 box-shadow:
+	0 0 2.5px rgba(255, 255, 255,.8),
+	0 0 5px rgba(255, 255, 255,.8),
+	0 0 7.5px rgba(255, 255, 255,.8),
+	0 0 10px rgba(75, 255, 0,0.84),
+	0 0 12.5px rgba(75, 255, 0,0.84),
+	0 0 15px rgba(75, 255, 0,0.84),
+	0 0 17.5px rgba(75, 255, 0,0.84),
+	0 0 20px rgba(75, 255, 0,0.84),
+	0 0 22.5px rgba(75, 255, 0,0.84);
+}
